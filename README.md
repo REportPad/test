@@ -4,6 +4,7 @@
 
 # Project name or Logo
 ![Logo](https://logosbynick.com/wp-content/uploads/2018/03/final-logo-example.png)
+![lagrange point](https://user-images.githubusercontent.com/20692398/191512558-72bce524-2cff-4fd4-beb9-231ea2a95f2c.png)
 
 프로젝트명 또는 프로젝트 로고 이미지 **(택1)**
 
